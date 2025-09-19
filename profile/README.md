@@ -19,18 +19,12 @@ At Wraptron, we build technology that empowers people, businesses, and communiti
 We specialize in crafting innovative digital solutions that are reliable, scalable, and tailored to real-world needs.
 
 💡 What we do:
-
-Web & Mobile Application Development
-
-AI & Automation (Workflow Automation, Prompt Engineering)
-
-Data Engineering & Business Intelligence
-
-Cloud & DevOps Solutions
-
-Enterprise Integrations & APIs
-
-Website Management & E-commerce Platforms
+- Web & Mobile Application Development
+- AI & Automation (Workflow Automation, Prompt Engineering)
+- Data Engineering & Business Intelligence
+- Cloud & DevOps Solutions
+- Enterprise Integrations & APIs
+- Website Management & E-commerce Platforms
 
 🌍 Our Philosophy:
 We believe technology should be purposeful — designed not just to solve problems, but to create opportunities.
